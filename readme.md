@@ -98,3 +98,4 @@ delete --id <id> Delete an expense by ID
 All expense data is stored in a simple expenses.json file in the application directory.
 
 The file is created automatically if it doesn't exist.
+Project URL: https://roadmap.sh/projects/expense-tracker
